@@ -18,9 +18,9 @@ import random
 import sys
 #=========================================================== Parameters of session ===========================================================
 
-api_id = 1447598
-api_hash = '8b5121ac8429ce37037b47ebd5f7cf23'
-session_name = 'tipocheksss'
+api_id = #API ID from my.telegram.org
+api_hash = #API HASH from my.telegram.org
+session_name = # Session name
 
 #=========================================================== Parameters of window ===========================================================
 
@@ -28,9 +28,9 @@ win_width = 600
 win_height = 400
 
 win = Tk()
-win.title('Bot Controller')
+win.title('Bot-adder-GUI')
 icon_path1 = sys.argv[0]
-icon_path2 = icon_path1.split('Bot_Controller.py')
+icon_path2 = icon_path1.split('Bot-adder-GUI.py')
 icon_path2 = icon_path2[0] + 'icon.png'
 image = PhotoImage(file = icon_path2)
 win.iconphoto(False, image)
@@ -549,3 +549,12 @@ def main():
 
 main()
 win.mainloop()
+
+
+#Make by ArLidi( Dinmukhamed Sybailas )
+#Make for frealance order
+
+
+
+
+
