@@ -18,6 +18,7 @@ import emoji
 from time import sleep
 import random
 import sys
+import telebot
 #=========================================================== Parameters of session ===========================================================
 
 api_id = #API ID from my.telegram.org
